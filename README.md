@@ -18,7 +18,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ahmed-mohamed-59ba47251" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
+<a herf="https://codeforces.com/profile/GEMI1" target="_"blank"><img src = "https://img.shields.io/badge/-GEMI1%20-#FFFFFF?style=for-the-badge&logo=Codeforces&logoColor=Yellow&logoColor=Red&logoColor=Blue"/></a>
 
 ### Languages :
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
@@ -29,8 +29,7 @@
     C++ : 
         - Mastering 4 critical SKILLS using C++ 17. By:Dr Mostafa Saad.
         - Mastering critical SKILLS in Data Structures using C++ . By:Dr Mostafa Saad.
-    
-  And still... 
+      And still... 
 
 
 <br>
