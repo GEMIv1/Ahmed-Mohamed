@@ -18,5 +18,5 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/ahmed-mohamed" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-59ba47251?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmed-mohamed-59ba47251" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-59ba47251?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
