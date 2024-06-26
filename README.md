@@ -30,6 +30,7 @@
         - Mastering 4 critical SKILLS using C++ 17. By:Dr Mostafa Saad.
         - Mastering critical SKILLS in Data Structures using C++. By:Dr Mostafa Saad.
         - Avr workshop by D-BUGERZ
+        - Avr BootCamp by D-BUGERZ
 
 
 <br>
