@@ -18,7 +18,6 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ahmed-mohamed-59ba47251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://Facebook.com/ahmedmohamed.ahmedkamel" target="_blank"><img src="https://img.shields.io/badge/-Facebook-00008B?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ### Languages :
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
