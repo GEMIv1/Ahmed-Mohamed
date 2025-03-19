@@ -24,10 +24,8 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=java&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-
 
 
 ### Cources :
@@ -35,7 +33,7 @@
         - Mastering critical SKILLS in Data Structures using C++. By:Dr Mostafa Saad.
         - Avr workshop by D-BUGERZ
         - Avr BootCamp by D-BUGERZ
+        - Flutter Diploma at WE
+        - AI Summer training at NTI 
 
-
-<br>
 
