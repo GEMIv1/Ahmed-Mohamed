@@ -24,6 +24,8 @@
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=java&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)&nbsp;
 
 
 
