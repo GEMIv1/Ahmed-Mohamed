@@ -21,11 +21,12 @@
 <a href="https://Facebook.com/ahmedmohamed.ahmedkamel" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-00008B?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ### Languages :
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=java&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
 
 
 
